@@ -5,13 +5,11 @@
 
 - 🔭 I'm currently working on **finishing my career**
 
-- 🌱 I'm currently learning **Python, JavaScript**
+- 🌱 I'm currently learning **Python, JavaScript and Dart**
 
-- 👯 I'm looking to collaborate on **video games, app projects, and digital art**
+- 👯 I'm looking to collaborate on **video games, app projects (for android and IO's), and digital art**
 
 - 🤝 I'm looking for help with **any projects, programs, or problems with your homework**
-
-- 💬 Ask me about **React Native, Flutter, and Python**
 
 - ⚡ Fun fact: **I like aliens**
 
