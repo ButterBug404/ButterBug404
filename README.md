@@ -11,7 +11,7 @@
 
 - 🤝 I'm looking for help with **any projects, programs, or problems with your homework**
 
-- ⚡ Fun fact: **I like aliens**
+- ⚡ Fun fact: **aliens**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,7 +46,11 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/papiroflexio"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="papiroflexio" /></a></p><br><br>
+<p><a href="https://ko-fi.com/papiroflexio"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="papiroflexio" /></a></p>
 
 
+<br><br>
+
+
+![91507983757rexccoi7gltmrdbcjtdrhfgjci9ff26yr7x2wxsembppi6f5gthked7sv1dsgrev8yconltupvwu0jw2nrfrocsxs6bnfbzlego2](https://github.com/Papiro389/Papiro389/assets/86893740/c5dd21af-4024-461c-91c4-9e5f535c6e2a)
 
