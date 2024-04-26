@@ -1,6 +1,36 @@
-<h1 align="center">Hi 👋, I'm Papiro</h1>
-<h3 align="center">A developer and digital artist from Jalisco, Mexico</h3>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=2500&repeat=false&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+I'm+Papiro;" alt="Typing SVG"/>
+    </h1>
+</div>
+
+<div align="center">
+    <h2>✨ About Me ✨</h2>
+    <p>I'm a computer engineering student specializing in Apps, Digital illustration and UI. I enjoy drawing, writing my webcomics and design website/apps.</p>
+
+  <p align="left">📚 I'm currently learning Machine Learning and Neural Networks <br>🎯 Goals: Get a job<br>🎲 Fun fact: I like aliens</p>
+</div>
+
+  ![papiro389's Streak](https://github-readme-streak-stats.herokuapp.com/?user=papiro389&theme=gotham&hide_border=true)
 
 
-![91507983757rexccoi7gltmrdbcjtdrhfgjci9ff26yr7x2wxsembppi6f5gthked7sv1dsgrev8yconltupvwu0jw2nrfrocsxs6bnfbzlego2](https://github.com/Papiro389/Papiro389/assets/86893740/c5dd21af-4024-461c-91c4-9e5f535c6e2a)
+<div align="center">
+    <h2>Skills and experience</h2>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,dart,python" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,tensorflow,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,notion,figma,aws,gcp,blender" />
+  </a>
+</p>
 
+  ![papiro389's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=papiro389&theme=gotham&show_icons=true&hide_border=true&layout=compact)
