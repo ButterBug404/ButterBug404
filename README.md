@@ -11,9 +11,6 @@
   <p align="left">📚 I'm currently learning Machine Learning and Neural Networks <br>🎯 Goals: Get a job<br>🎲 Fun fact: I like aliens</p>
 </div>
 
-  ![papiro389's Streak](https://github-readme-streak-stats.herokuapp.com/?user=papiro389&theme=gotham&hide_border=true)
-
-
 <div align="center">
     <h2>Skills and experience</h2>
 </div>
@@ -33,4 +30,5 @@
   </a>
 </p>
 
-  ![papiro389's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=papiro389&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+  ![papiro389's Streak](https://github-readme-streak-stats.herokuapp.com/?user=papiro389&theme=gotham&hide_border=true)
+![papiro389's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=papiro389&theme=gotham&show_icons=true&hide_border=true&layout=compact)
