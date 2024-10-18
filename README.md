@@ -26,7 +26,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,notion,figma,aws,gcp,blender,linux" />
+    <img src="https://skillicons.dev/icons?i=wordpress,notion,figma,blender,firebase" />
   </a>
 </p>
 
