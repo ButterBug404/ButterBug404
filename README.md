@@ -21,12 +21,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,tensorflow,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,androidstudio,tensorflow,postgres" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,notion,figma,blender,firebase" />
+    <img src="https://skillicons.dev/icons?i=wordpress,notion,figma,blender" />
   </a>
 </p>
 
