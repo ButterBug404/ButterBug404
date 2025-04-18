@@ -29,6 +29,3 @@
     <img src="https://skillicons.dev/icons?i=wordpress,notion,figma,blender" />
   </a>
 </p>
-
-  ![papiro389's Streak](https://github-readme-streak-stats.herokuapp.com/?user=papiro389&theme=gotham&hide_border=true)
-![papiro389's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=papiro389&theme=gotham&show_icons=true&hide_border=true&layout=compact)
