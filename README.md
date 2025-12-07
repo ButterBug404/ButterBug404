@@ -8,24 +8,58 @@
     <h2>✨ About Me ✨</h2>
     <p>I'm a computer engineering student specializing in Apps, Digital illustration and UI. I enjoy drawing, writing my webcomics and design website/apps.</p>
 
-  <p align="left">📚 I'm currently learning Machine Learning and Neural Networks <br>🎯 Goals: Get a job<br>🎲 Fun fact: I like aliens</p>
+
+
+
 </div>
 
+
+- 🔭 I’m currently looking for internship
+
+
+- 🌱 I’m currently learning Java
+
+
+- ❓ You can Email Me Through [Here](mailto:indraniko20@gmail.com)
 <div align="center">
     <h2>Skills and experience</h2>
 </div>
+
+## My Tech Stack and Tools
+
+### Programming Languages
+
+<p>
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
   </a>
 </p>
+
+### Frameworks and Libraries
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,androidstudio,tensorflow,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
   </a>
 </p>
+
+### Software
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,notion,figma,blender" />
+    <img src="https://skillicons.dev/icons?i=figma,blender,vscode" />
   </a>
 </p>
+
+### <u> Version Control and Tools: </u>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+<br/>  
+
